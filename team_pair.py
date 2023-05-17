@@ -19,3 +19,6 @@ for day in range(14):
 print("14일간의 팀 구성 리스트:")
 for day in range(14):
     print(f"Day {day+1}: 네비게이터 {navi_list[day]}, 드라이버 {driver_list[day]}, 옵저버 {obs_list[day]}")
+
+#Day 1: 네비게이터 ['박소진', '윤준열'], 드라이버 ['나명흠', '김성광'], 옵저버 임재훈
+#Day 2: 네비게이터 ['윤준열', '김성광'], 드라이버 ['박소진', '임재훈'], 옵저버 나명흠
